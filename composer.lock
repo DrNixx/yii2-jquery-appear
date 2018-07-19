@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49267a3670f0f3305b2b0bb0188d6798",
+    "content-hash": "81a5e01b512488448ff9268d21ffc9b4",
     "packages": [
         {
             "name": "bower-asset/appear",
-            "version": "0.4.0",
+            "version": "0.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/morr/jquery.appear.git",
-                "reference": "2e382b95f6a44c481f5992a390707bffbffae2d1"
+                "reference": "f7e18b6719695baa05744c578e59bd1fd7b4fac6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/morr/jquery.appear/zipball/2e382b95f6a44c481f5992a390707bffbffae2d1",
-                "reference": "2e382b95f6a44c481f5992a390707bffbffae2d1",
+                "url": "https://api.github.com/repos/morr/jquery.appear/zipball/f7e18b6719695baa05744c578e59bd1fd7b4fac6",
+                "reference": "f7e18b6719695baa05744c578e59bd1fd7b4fac6",
                 "shasum": null
             },
             "require": {
@@ -74,7 +74,7 @@
             "version": "v1.3.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/bestiejs/punycode.js.git",
+                "url": "git@github.com:bestiejs/punycode.js.git",
                 "reference": "38c8d3131a82567bfef18da09f7f4db68c84f8a3"
             },
             "dist": {
@@ -316,16 +316,16 @@
         },
         {
             "name": "yiisoft/yii2-composer",
-            "version": "2.0.6",
+            "version": "2.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-composer.git",
-                "reference": "163419f1f197e02f015713b0d4f85598d8f8aa80"
+                "reference": "1439e78be1218c492e6cde251ed87d3f128b9534"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-composer/zipball/163419f1f197e02f015713b0d4f85598d8f8aa80",
-                "reference": "163419f1f197e02f015713b0d4f85598d8f8aa80",
+                "url": "https://api.github.com/repos/yiisoft/yii2-composer/zipball/1439e78be1218c492e6cde251ed87d3f128b9534",
+                "reference": "1439e78be1218c492e6cde251ed87d3f128b9534",
                 "shasum": ""
             },
             "require": {
@@ -366,7 +366,7 @@
                 "extension installer",
                 "yii2"
             ],
-            "time": "2018-03-21T16:15:55+00:00"
+            "time": "2018-07-05T15:44:47+00:00"
         }
     ],
     "packages-dev": [],
